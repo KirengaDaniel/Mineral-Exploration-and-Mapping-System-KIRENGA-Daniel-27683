@@ -1,4 +1,7 @@
 # MINERAL EXPLORATION, MAPPING & MARKET INTELLIGENCE SYSTEM
+
+***NAME: KIRENGA Daniel  ,   ID:27683***
+
 ## Scope Definition
 
 **Business Overview**

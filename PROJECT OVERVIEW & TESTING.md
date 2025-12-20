@@ -87,7 +87,8 @@ Identify: Record the Mineral discovered via a Finding.
 
 Document: The Surveyor files a Report on that site's progress.
 
-image
+<img width="813" height="536" alt="ERDIAGRAM" src="https://github.com/user-attachments/assets/002be439-995f-4aba-b806-352b4a7aefc8" />
+
 
 **TEST Result**
 ---------------------------------------------------------------------------------------------------------------------------------------------------
